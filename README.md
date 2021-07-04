@@ -1,1 +1,2 @@
-# Grootan-CSV
+Web application with an option to upload a CSV file of 1 lakh or more records,where the application will read the records, process it, and push to the database table.
+The CSV file will have a header row that denotes the database table column names and rows which represent the values of the database table.Click on the choose the file and select your file. The file should should be CSV file format. Then click on the Upload button.Then data updation will be Done.
